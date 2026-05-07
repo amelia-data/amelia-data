@@ -8,7 +8,7 @@
 I am a dedicated research participant and data enthusiast currently focused on **AI Evaluation and Human-in-the-Loop systems**. My goal is to contribute high-quality, nuanced data to help develop safer and more helpful Large Language Models (LLMs).
 
 ### 🎯 Core Focus/ Research Interests: AI Evaluation, Red Teaming & Audio Perception
-- - 🛡️ **Red Teaming & Stress Testing:** Actively identifying model **hallucinations**, logical fallacies, and safety "jailbreaks" in LLM outputs.
+- 🛡️ **Red Teaming & Stress Testing:** Actively identifying model **hallucinations**, logical fallacies, and safety "jailbreaks" in LLM outputs.
 - 🤝 **Human-in-the-Loop (HITL):** Providing expert human oversight for **data annotation**, **preference ranking**, and **multimodal** model training.
 - 🎧 **Audio & Music Evaluation:** Experienced in **high-fidelity listening** tasks, evaluating **AI-generated speech (TTS)** for naturalness, prosody, and emotional resonance.
 - 🎨 **UX/UI & Design Evaluation:** Utilizing my background in **Visual Communications** and **Figma** to critique AI-generated designs, layouts, and interfaces.
