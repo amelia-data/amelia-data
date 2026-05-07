@@ -35,3 +35,8 @@ Currently mastering **Python for Data Science** and advanced **UX/UI principles*
 
 ---
 *Verified Prolific Participant | Audio & Design Focus | HITL Specialist | Committed to Data Integrity*
+---
+### 🛡️ Verification
+**Prolific ID:** [Your ID Here]  
+*This GitHub profile serves as a professional portfolio for research verification and technical skill demonstration.*
+Use code with caution.
